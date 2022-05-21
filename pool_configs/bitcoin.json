@@ -1,6 +1,6 @@
 {
     "enabled": false,
-    "coin": "litecoin.json",
+    "coin": "bitcoin.json",
 
     "address": "n4jSe18kZMCdGcZqaYprShXW6EH1wivUK1",
 
